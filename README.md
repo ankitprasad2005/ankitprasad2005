@@ -1,7 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitprasad2005&label=Profile%20views&color=0e75b6&style=flat" alt="ankitprasad2005" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankitprasad2005&theme=gruvbox" alt="ankitprasad2005" /></a> </p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" alt="C" width="40" height="40"/>
@@ -38,10 +36,6 @@
 </p>
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitprasad2005&layout=compact&theme=gruvbox" alt=ankitprasad2005 />
-
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=ankitprasad2005&show_icons=true&locale=en&theme=gruvbox" alt="ankitprasad2005" /></p>
-
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitprasad2005&theme=gruvbox" alt="ankitprasad2005" /></p>
 
 <div> 
